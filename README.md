@@ -1,4 +1,4 @@
-# ADC_Thermometer
+# ADC Thermometer
 
 ## Contributing
 
